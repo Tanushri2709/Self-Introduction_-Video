@@ -1,4 +1,8 @@
 # 🎥 Self Introduction – Sukhwal Tanushri Rajesh
+[Video Link]([https://pages.github.com/](https://drive.google.com/file/d/1mqQgZmaM-9bod2ffGrjA-V9husSHVteh/view?usp=sharing))
+
+## 👩‍💻 Video Drive Link
+B.Tech CSE student at VIT Bhopal and a passionate Full-Stack Developer skilled in MERN stack technologies.
 
 ## 👩‍💻 About Me
 B.Tech CSE student at VIT Bhopal and a passionate Full-Stack Developer skilled in MERN stack technologies.
